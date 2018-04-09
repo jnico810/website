@@ -1,8 +1,5 @@
 import React from "react";
-
-const styles = {
-  navItem: {}
-};
+import "./NavBar.less";
 
 const NavItem = ({ text }) => <li>{text}</li>;
 
